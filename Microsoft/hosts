@@ -1,6 +1,5 @@
 127.0.0.1 client.wns.windows.com
 127.0.0.1 dmd.metaservices.microsoft.com
 127.0.0.1 fd.api.iris.microsoft.com
-127.0.0.1 go.microsoft.com
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 settings-win.data.microsoft.com
